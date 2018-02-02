@@ -10,6 +10,7 @@ __pycache__/
 *.tar
 *.tar.gz
 *.gz
+*.tgz
 # Distribution / packaging
 .Python
 build/
